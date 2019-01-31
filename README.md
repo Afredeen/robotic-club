@@ -1,3 +1,5 @@
 # robotic-club
 coding 
-haha
+People:
+Christopher(I am invited)
+Addison
